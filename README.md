@@ -11,12 +11,13 @@ The repository includes preprocessing, model training, evaluation, and full visu
 
 **Prediction Example:**
 
-![Prediction overlay](images/train_result.png)
+![Prediction overlay](images/train_results.png)
 
 **Segmentation Animation:**
 
-https://user-images.githubusercontent.com/luissm01/video_result.mp4  
-*(or embed locally if preferred: `images/video_result.mp4`)*
+![Segmentation animation](images/segmentation.gif)
+
+▶️ [Watch full resolution video](images/video_result.mp4)
 
 ---
 
