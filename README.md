@@ -15,7 +15,7 @@ The repository includes preprocessing, model training, evaluation, and full visu
 
 **Segmentation Animation:**
 
-![Segmentation animation](images/segmentation.gif)
+![Segmentation animation](images/video_result.gif)
 
 ▶️ [Watch full resolution video](images/video_result.mp4)
 
