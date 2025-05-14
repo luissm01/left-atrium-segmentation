@@ -1,0 +1,36 @@
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Temporary or OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments
+.env/
+.venv/
+env/
+venv/
+
+# Notebook and matplotlib autosaves
+*.autosave
+
+# Logs and metadata (except your logs folder)
+*.log
+
+# Exclude weight files not inside your included folder (precaution)
+*.ckpt
+*.pt
+
+# Jupyter Notebook metadata (optional, to keep diffs clean)
+.ipynb_checkpoints/
+
+# Ignore raw data folder
+data/
+!data/README.md
+
+# Exceptions: keep these folders
+!logs/**
+!weights/**
